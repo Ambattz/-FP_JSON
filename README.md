@@ -1,6 +1,6 @@
 # FP_JSON
 
-Fresco Play TCS JSON Challenge | JSON| Created by Ambattz | 2022 |
+Fresco Play TCS JSON Challenge | JSON | Created by Ambattz | 2022 |
 
 JavaScript Object Notation, commonly known as 'JSON', is heavily leveraged as a data-interchange format.JSON is a subset of the JavaScript Programming language, Standard ECMA-262 3rd Edition-December 1999 where both, 
 

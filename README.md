@@ -13,8 +13,8 @@ In this course, you will understand more about JSON.
 In this course, you will do the following :
 
   * Looping and Creating Object
-  * Verify JSON Datatypes - Hands-On
-  * JSON.parse() - Hands-On
+  * Verify JSON Datatypes
+  * JSON.parse()
 
 01 You need to follow these steps otherwise you will face some server issues even hands-On code is right. 
 
